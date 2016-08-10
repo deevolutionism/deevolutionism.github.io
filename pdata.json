@@ -1,0 +1,53 @@
+{
+  "projects":[
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    },
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    },
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    },
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    },
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    },
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    },
+    {
+      "title":"Title",
+      "description":"Project Description",
+      "type":"Project Type",
+      "date":"Project Date",
+      "image":"placeholder.png"
+    }
+  ]
+}
