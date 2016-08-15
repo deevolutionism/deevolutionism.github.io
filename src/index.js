@@ -2,6 +2,8 @@ import React, {Component} from "react";
 import ReactDom from "react-dom";
 import $ from "jquery";
 
+var version = '0.0.0';
+
 class Index extends Component {
   constructor(props) {
     super(props);
@@ -39,6 +41,7 @@ class Index extends Component {
     if(this.state.projects != null){
       console.log(typeof this.state.projects);
       console.log(this.state.projects.projects.length);
+      version = this.state.projects.version;
       for(var i = 0; i<this.state.projects.projects.length;i++){
         portfolioItems.push(
           <div className="segment" key={i}>
@@ -62,6 +65,7 @@ class Index extends Component {
           <li><a href="https://www.linkedin.com/in/gentry-demchak-843a6a79"><img src="linkedin-64.png"/></a></li>
         </ul>
         {portfolioItems}
+        <div>{version}</div>
       </div>
     )
   }

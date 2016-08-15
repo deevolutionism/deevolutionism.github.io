@@ -1,53 +1,96 @@
 {
+  "version":"0.1.0",
   "projects":[
     {
-      "title":"Title",
+      "title":"Synchro Pro UI Icons",
+      "description":"Designed by James Hall-Collins and developed by Gentry Demchak.",
+      "type":"IOS / Swift App",
+      "date":"2015",
+      "image":"assets/synchro-icons.png"
+    },
+    {
+      "title":"Beta Meeting Rooms App",
+      "description":"Designed and Developed by Gentry Demchak & James Morse",
+      "type":"React / Web App",
+      "date":"2016",
+      "image":"assets/bookings.png"
+    },
+    {
+      "title":"K2O IOS Store App",
+      "description":"Designed by James Hall-Collins and developed by Gentry Demchak.",
+      "type":"IOS / Swift App",
+      "date":"2015",
+      "image":"assets/K20app.png"
+    },
+    {
+      "title":"Rise of Ephemeral-Net",
       "description":"Project Description",
-      "type":"Project Type",
-      "date":"Project Date",
+      "type":"Javascript / Mobile App / Controller",
+      "date":"2015",
+      "image":"assets/controller.png"
+    },
+    {
+      "title":"Mobile Mesh Networking Apparatus",
+      "description":"A prototpye for creating and distributing a ",
+      "type":"Wearable Tech / Raspberry Pi / IOT",
+      "date":"2015",
       "image":"placeholder.png"
     },
     {
-      "title":"Title",
+      "title":"Automated Recycling Bin",
       "description":"Project Description",
-      "type":"Project Type",
-      "date":"Project Date",
+      "type":"Arduino / 3D Printing",
+      "date":"2015",
       "image":"placeholder.png"
     },
     {
-      "title":"Title",
+      "title":"LAN Voting System",
       "description":"Project Description",
       "type":"Project Type",
-      "date":"Project Date",
+      "date":"2015",
+      "image":"assets/lan.png"
+    },
+    {
+      "title":"On Air",
+      "description":"Social Experiment",
+      "type":"Arduino / Laser Cut",
+      "date":"2015",
       "image":"placeholder.png"
     },
     {
-      "title":"Title",
+      "title":"K20 Wearable Haptic Police Response Hoodie",
       "description":"Project Description",
       "type":"Project Type",
-      "date":"Project Date",
-      "image":"placeholder.png"
+      "date":"2015",
+      "image":"assets/police-hoodie.png"
     },
     {
-      "title":"Title",
+      "title":"Peppers Ghost Game Station",
       "description":"Project Description",
-      "type":"Project Type",
-      "date":"Project Date",
-      "image":"placeholder.png"
+      "type":"Arduino / Processing / Laser Cut",
+      "date":"2014",
+      "image":"assets/peppersGhost.png"
     },
     {
-      "title":"Title",
+      "title":"Wearable PCB Pipe Organ",
       "description":"Project Description",
-      "type":"Project Type",
-      "date":"Project Date",
-      "image":"placeholder.png"
+      "type":"Arduino / Laser Cut / Wearable",
+      "date":"2014",
+      "image":"assets/organ.png"
     },
     {
-      "title":"Title",
-      "description":"Project Description",
-      "type":"Project Type",
-      "date":"Project Date",
-      "image":"placeholder.png"
+      "title":"Mod Pack",
+      "description":"Prototype for a sustainable, modular, open source personal go bag for disaster relief.",
+      "type":"Prototype / Wearable",
+      "date":"2014",
+      "image":"assets/mod.png"
+    },
+    {
+      "title":"Waste to Food",
+      "description":"Animation describing a device that transmogrifies waste into food",
+      "type":"Photoshop",
+      "date":"2014",
+      "image":"assets/re-animation.png"
     }
   ]
 }
