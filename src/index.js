@@ -58,14 +58,14 @@ class Index extends Component {
 
     return (
       <div>
+      <h1>Gentry Demchak</h1>
         <ul>
-          <li><h1>Gentry Demchak</h1></li>
-          <li><a href="https://github.com/deevolutionism"><img src="github-64.png"/></a></li>
-          <li><a href="https://twitter.com/gdemchak17"><img src="twitter-64.png"/></a></li>
-          <li><a href="https://www.linkedin.com/in/gentry-demchak-843a6a79"><img src="linkedin-64.png"/></a></li>
+          <li><a href="https://github.com/deevolutionism">github</a></li>
+          <li><a href="https://twitter.com/gdemchak17">twitter</a></li>
+          <li><a href="https://www.linkedin.com/in/gentry-demchak-843a6a79">linkedin</a></li>
         </ul>
         {portfolioItems}
-        <div>{version}</div>
+        <div>{version} - 2016</div>
       </div>
     )
   }

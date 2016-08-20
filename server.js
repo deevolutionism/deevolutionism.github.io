@@ -2,7 +2,7 @@ var express = require('express');
 var request = require('request');
 var fs = require('fs');
 var app = express();
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 8080);
 app.set('host', process.env.HOST || '127.0.0.1');
 
 
