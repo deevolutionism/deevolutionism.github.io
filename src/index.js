@@ -50,6 +50,9 @@ class Index extends Component {
             <h3>{this.state.projects.projects[i].type}</h3>
             <h3>{this.state.projects.projects[i].date}</h3>
             <p>{this.state.projects.projects[i].description}</p>
+            <div>
+              <p>{this.state.projects.projects[i].views} views</p>
+            </div>
           </div>
         );
       }
@@ -60,9 +63,9 @@ class Index extends Component {
       <div>
       <h1>Gentry Demchak</h1>
         <ul>
-          <li><a href="https://github.com/deevolutionism">github</a></li>
-          <li><a href="https://twitter.com/gdemchak17">twitter</a></li>
-          <li><a href="https://www.linkedin.com/in/gentry-demchak-843a6a79">linkedin</a></li>
+          <li><a href="https://github.com/deevolutionism">Github</a></li>
+          <li><a href="https://twitter.com/gdemchak17">Twitter</a></li>
+          <li><a href="https://www.linkedin.com/in/gentry-demchak-843a6a79">Linkedin</a></li>
         </ul>
         {portfolioItems}
         <div>{version} - 2016</div>
