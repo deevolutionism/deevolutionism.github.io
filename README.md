@@ -39,6 +39,8 @@ The Cliffs
 
 #### ⛰️ Hiking
 
+Breakneck Ridge, Devils Peak, Grand Tetons, B Rock, lots of others!
+
 #### 🚀 Sci-Fi
 
 Snow Crash, Neuromancer
@@ -58,3 +60,6 @@ Settlers of Catan, Settlers of America, Settlers of Europe, Dominion, Arkham Hor
 |Monero| 42CLABpWE8fAgt253a3kXbX9z2YAKwRcGSoMwPHrN3fCedJJTKRWN47D6ifVtR5kNDPHWsGcaikE7NwinGfMTb4TSUMjHjz |
 | Ethereum |0xaF552CB83F75EF59252ebAae4e2E95CdF807cA54|
 
+
+you can also send me BTC with this QR code:
+![bitcoin address](bitcoin-qr.png)
