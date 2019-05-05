@@ -1,11 +1,9 @@
 ### 👋
 ## I'm Gentry. 
 ### I'm a Creative Technologist and Frontend Developer currently working at Edelman Digital, living in NYC.
-You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
+#### You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
 
----
-
-#### check out some projects I've worked on:
+## check out some projects I've worked on:
 
 ### [@BitcoinProgress](https://twitter.com/BitcoinProgress.com)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
@@ -24,12 +22,12 @@ Ursa was a [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hacka
 Heartfelt was an interactive installtion project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC.
 
 
-### [university projects](http://portfolio.newschool.edu/gentrydemchak/)
+### [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
 ---
 
 
-Other things I enjoy:
+## Other things I enjoy:
 
 #### 🏂 Snowboarding
 
