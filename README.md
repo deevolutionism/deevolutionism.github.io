@@ -15,6 +15,7 @@ Bitcoin Progress twitter bot. Follow this to get regular updates on the progress
 
 ### [Ursa](https://devpost.com/software/shopgood)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Ursa was a [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. Healthy for you, healthy for the planet!
 
 ### [heartfelt @ The Lab Panormam festival 2017](https://vimeo.com/234352576)
