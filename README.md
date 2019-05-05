@@ -1,6 +1,6 @@
 ### 👋
 ## I'm Gentry. 
-### I'm a Creative Technologist and Frontend Developer currently working at Edelman Digital.
+### I'm a Creative Technologist and Frontend Developer currently working at Edelman Digital, living in NYC.
 You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
 
 ---
