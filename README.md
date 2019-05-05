@@ -4,7 +4,7 @@
 
 #### check out some projects I've worked on:
 
-Bitcoin Progress twitter bot. Follow this to get regular updates on the progress towards the next [Bitcoin halving event]!(https://en.bitcoin.it/wiki/Controlled_supply)
+Bitcoin Progress twitter bot. Follow this to get regular updates on the progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply)
 [@BitcoinProgress](https://twitter.com/BitcoinProgress.com)
 
 Ursa was a [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. Healthy for you, healthy for the planet!
