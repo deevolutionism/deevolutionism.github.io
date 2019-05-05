@@ -62,4 +62,5 @@ Settlers of Catan, Settlers of America, Settlers of Europe, Dominion, Arkham Hor
 
 
 you can also send me BTC with this QR code:
+
 ![bitcoin address](bitcoin-qr.png)
