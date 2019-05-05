@@ -28,8 +28,6 @@ Heartfelt was an interactive installtion project showcased at The Lab during the
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
 ---
 
-> Fun Fact: my name was chosen from the character Gentry from William Gibsons Sprawl trillogy. If you haven't read the full triology yet are you even a technologist? [Go read it, ludite!](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
-
 
 Other things I enjoy:
 
@@ -46,6 +44,8 @@ The Cliffs
 #### 🚀 Sci-Fi
 
 Snow Crash, Neuromancer
+
+> Fun Fact: my name was chosen from the character Gentry from William Gibsons Sprawl trillogy. If you haven't read the full triology yet are you even a technologist? [Go read it, ludite!](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
 
 #### 🎲 Board Games
 
