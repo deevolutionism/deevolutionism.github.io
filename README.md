@@ -23,6 +23,9 @@ Ursa was a [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hacka
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Heartfelt was an interactive installtion project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC.
 
+
+### [university projects](http://portfolio.newschool.edu/gentrydemchak/)
+![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
 ---
 
 > Fun Fact: my name was chosen from the character Gentry from William Gibsons Sprawl trillogy. If you haven't read the full triology yet are you even a technologist? [Go read it, ludite!](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
@@ -30,15 +33,30 @@ Heartfelt was an interactive installtion project showcased at The Lab during the
 
 Other things I enjoy:
 
-🏂 Snowboarding
+#### 🏂 Snowboarding
 
-🧗 Climbing
+Mount Snow, Okemo, Keystone, Beaver Creek, Killington, Stowe, Hunter
 
-⛰️ Hiking
+#### 🧗 Climbing
 
-🚀 Sci-Fi
+The Cliffs
 
-🎲 Board Games
+#### ⛰️ Hiking
 
-₿ Cryptocurrency
+#### 🚀 Sci-Fi
+
+Snow Crash, Neuromancer
+
+#### 🎲 Board Games
+
+Settlers of Catan, Settlers of America, Settlers of Europe, Dominion, Arkham Horror, Ticket to Ride, Axis and Allies
+
+#### ₿ Cryptocurrency
+
+| ₿ Crypto | send me a coffee! ☕ |
+|:---|:---|
+|Bitcoin|3QN4kRdbKG4xvjSPNtdrKn1WX7rfPsMvCW|
+|Litecoin| 0xaF552CB83F75EF59252ebAae4e2E95CdF807cA54 |
+|Monero| 42CLABpWE8fAgt253a3kXbX9z2YAKwRcGSoMwPHrN3fCedJJTKRWN47D6ifVtR5kNDPHWsGcaikE7NwinGfMTb4TSUMjHjz |
+| Ethereum |0xaF552CB83F75EF59252ebAae4e2E95CdF807cA54|
 
