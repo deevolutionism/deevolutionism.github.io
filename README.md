@@ -5,11 +5,11 @@
 
 ## check out some projects I've worked on:
 
-### [@BitcoinProgress](https://twitter.com/BitcoinProgress.com)
+### [@BitcoinProgress](https://twitter.com/BitcoinProgress)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Bitcoin Progress twitter bot. Follow this to get regular updates on the progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply)
+Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply)
 
 ### [Ursa](https://devpost.com/software/shopgood)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,7 +19,7 @@ Ursa was a [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hacka
 ### [heartfelt @ The Lab Panormam festival 2017](https://vimeo.com/234352576)
 <iframe src="https://player.vimeo.com/video/234352576" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-Heartfelt was an interactive installtion project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC.
+Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC.
 
 
 ### [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
