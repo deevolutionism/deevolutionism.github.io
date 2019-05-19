@@ -19,7 +19,7 @@ Ursa was a [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hacka
 ### [heartfelt @ The Lab Panormam festival 2017](https://vimeo.com/234352576)
 <iframe src="https://player.vimeo.com/video/234352576" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC.
+Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
 
 ### [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
