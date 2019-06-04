@@ -3,7 +3,12 @@
 ### I'm a Creative Technologist and Frontend Developer currently working at Edelman Digital, living in NYC.
 #### You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
 
-## check out some projects I've worked on:
+## projects from work
+[Work from Hawaii](https://work-from-hawaii.com/)
+[Citi Blog](https://blog.citigroup.com/)
+
+
+## check out some side projects I've worked on:
 
 ### [@BitcoinProgress](https://twitter.com/BitcoinProgress)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
