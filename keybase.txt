@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/deevolution
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gentrydemchak.com
+  * I am deevolution (https://keybase.io/deevolution) on keybase.
+  * I have a public key ASCJsG8E2oGZzS1q9TyUb5gJ0VyanDJSeBp_oZRRG7sBhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c56c9c5e3879f70b323c46a213ad483ed37ea8f085d2c379b0b3bc505561f0b0a",
+      "host": "keybase.io",
+      "kid": "012089b06f04da8199cd2d6af53c946f9809d15c9a9c3252781a7fa194511bbb01860a",
+      "uid": "b873616e8c6f0aaa261c46dff8d92b19",
+      "username": "deevolution"
+    },
+    "merkle_root": {
+      "ctime": 1574544055,
+      "hash": "66a223dd4b5ec802a00c74b1c9dcd8d8a0967623064115228a0a2a06883d34e29ee80ecd5ee309912cb59c2eb4b6226bb8199b7b2d963d7fc54cc3819efef45d",
+      "hash_meta": "c4f91c29e9031fec0855e3badeaa76a1cff9116b0563d68972662819e968a38c",
+      "seqno": 10649329
+    },
+    "service": {
+      "entropy": "//ia4efPTDGfAnOTTf40qSbP",
+      "hostname": "gentrydemchak.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574544064,
+  "expire_in": 504576000,
+  "prev": "adb01c7d3842204e2bdf6e206c1a882f14233602438c186c761ee0739b451626",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgibBvBNqBmc0tavU8lG+YCdFcmpwyUngaf6GUURu7AYYKp3BheWxvYWTESpcCIsQgrbAcfThCIE4r324gbBqILxQjNgJDjBhsdh7gc5tFFibEIKi/nzXc2JJSpkccK0HZQbDsOJ5K2hRvy+6rVxIY2qlOAgHCo3NpZ8RAa67M9jJ0QQhGbp+51cTUDn/6D751NN2dtZAdeY71XAk3j1StoBUNeKrmF9HRXs8Q4gRC7n7OsxrlcJ1bIpXOCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL2+kewkLM23pOHygfUmGDJQLo2y9eHijvMps0zD06ibo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deevolution
+
+==================================================================
