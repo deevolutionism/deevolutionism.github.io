@@ -3,9 +3,13 @@
 ### I'm a Creative Technologist and Frontend Engineer based out of Brooklyn, NY.
 #### You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
 
-## 🖥️ Projects from work 
+## 🖥️ Microsites created with Vue at Edelman Digital
+
 [Work from Hawaii](https://work-from-hawaii.com/)
+
 [Citi Blog](https://blog.citigroup.com/)
+
+[Maxx You Project](https://maxxyou-phase2.surge.sh/)
 
 ## 🕹️ Check out some side projects I've worked on:
 
@@ -47,7 +51,7 @@ Breakneck Ridge, Devils Peak, Grand Tetons, B Rock, lots of others!
 
 #### 🚀 Sci-Fi
 
-Snow Crash, Neuromancer
+Snow Crash, Neuromancer, Cryptonomicon
 
 > Fun Fact: my name was chosen from the character Gentry from William Gibsons Sprawl trillogy. 🔗 [Go read it](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
 
@@ -60,9 +64,7 @@ Settlers of Catan, Settlers of America, Settlers of Europe, Dominion, Arkham Hor
 | ₿ Crypto | send me a coffee! ☕ |
 |:---|:---|
 |Bitcoin|3QN4kRdbKG4xvjSPNtdrKn1WX7rfPsMvCW|
-|Litecoin| 0xaF552CB83F75EF59252ebAae4e2E95CdF807cA54 |
 |Monero| 42CLABpWE8fAgt253a3kXbX9z2YAKwRcGSoMwPHrN3fCedJJTKRWN47D6ifVtR5kNDPHWsGcaikE7NwinGfMTb4TSUMjHjz |
-| Ethereum |0xaF552CB83F75EF59252ebAae4e2E95CdF807cA54|
 
 
 you can also send me BTC with this QR code:
