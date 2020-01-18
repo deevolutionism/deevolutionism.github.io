@@ -11,6 +11,12 @@
 
 [Maxx You Project](https://maxxyou-phase2.surge.sh/)
 
+I have also worked on a handful of React apps for startups big and small
+
+- EINO
+- Grapple Media
+- WeWork
+
 ## 🕹️ Check out some side projects I've worked on:
 
 ### 🔗 [@BitcoinProgress](https://twitter.com/BitcoinProgress)
