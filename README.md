@@ -46,7 +46,7 @@ Heartfelt was an interactive installation project showcased at The Lab during th
 
 ### 🔗 [zolamusicofficial](http://zolamusicofficial.com)
 Created a webflow website for my friend [ZOLA](https://soundcloud.com/zolamusicofficial). Still a work in progress at the moment!
-[zola music official](assets/zola-music-official.jpg)
+![zola music official](assets/zola-music-official.JPG)
 
 ### 🔗 [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
