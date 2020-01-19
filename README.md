@@ -32,7 +32,8 @@ Helped design and develop a prototype meeting rooms booking kiosk app to give We
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply)
+Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply). If you are interesting in learning more about what the halvening is, you can read my [quick blog post](https://dev.to/) that gives a concise overview of the 3 underlying mechanism working together to control the supply of new Bitcoin. For a longer, and more technical, deep dive, I recommend reading [chapter 10: mining and consensus](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc) in Andreas Antonopoulos' Mastering Bitcoin book.
+You can also look around at my [twitter bots code](https://github.com/deevolutionism/bitcoin-halving-progress-bar).
 
 ### 🔗 [Ursa](https://devpost.com/software/shopgood)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
