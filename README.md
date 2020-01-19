@@ -1,6 +1,6 @@
 ### 👋
 ## 👨‍💻 I'm Gentry. 
-### I'm a Creative Technologist and Frontend Engineer based out of Brooklyn, NY.
+### I'm a Creative Technologist and Fulstack Web Developer based out of Brooklyn, NY.
 #### You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
 
 ## 🖥️ Microsites created with Vue at Edelman Digital
