@@ -1,7 +1,9 @@
 ### 👋
 ## 👨‍💻 I'm Gentry. 
-### I'm a Creative Technologist and Fulstack Web Developer based out of Brooklyn, NY.
+### I'm a Creative Technologist and Frontend Engineer currently based in Denver, CO.
 #### You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
+
+Currently exploring the DeFi, Bitcoin, Crypto rabbit hole 🕳🐇₿ and looking for ways to support and grow the space.
 
 ## 🖥️ Microsites created with Vue at Edelman Digital
 
@@ -46,7 +48,7 @@ Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
 ### 🔗 [zolamusicofficial](http://zolamusicofficial.com)
-Created a webflow website for my friend [ZOLA](https://soundcloud.com/zolamusicofficial). Still a work in progress at the moment!
+Created a webflow music website for my friend [ZOLA](https://soundcloud.com/zolamusicofficial). Still a work in progress at the moment!
 ![zola music official](assets/zola-music-official.JPG)
 
 ### 🔗 [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
@@ -62,17 +64,17 @@ Mount Snow, Okemo, Keystone, Beaver Creek, Killington, Stowe, Hunter
 
 #### 🧗 Climbing
 
-The Cliffs
+The Cliffs, Earthtreks
 
 #### ⛰️ Hiking
 
-Breakneck Ridge, Devils Peak, Grand Tetons, B Rock, lots of others!
+Breakneck Ridge, Devils Peak, Grand Tetons, , lots of others!
 
 #### 🚀 Sci-Fi
 
 Snow Crash, Neuromancer, Cryptonomicon
 
-> Fun Fact: my name was chosen from the character Gentry from William Gibsons Sprawl trillogy. 🔗 [Go read it](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
+> Fun Fact: my name was chosen from the character Gentry in William Gibson's Sprawl trillogy. 🔗 [amazon](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
 
 #### 🎲 Board Games
 
@@ -82,10 +84,5 @@ Settlers of Catan, Settlers of America, Settlers of Europe, Dominion, Arkham Hor
 
 | ₿ Crypto | send me a coffee! ☕ |
 |:---|:---|
-|Bitcoin|3QN4kRdbKG4xvjSPNtdrKn1WX7rfPsMvCW|
+|Bitcoin|bc1qw5t65htp9zl9sygm36ykzq9kkjg4xqndhngu3j |
 |Monero| 42CLABpWE8fAgt253a3kXbX9z2YAKwRcGSoMwPHrN3fCedJJTKRWN47D6ifVtR5kNDPHWsGcaikE7NwinGfMTb4TSUMjHjz |
-
-
-you can also send me BTC with this QR code:
-
-![bitcoin address](bitcoin-qr.png)
