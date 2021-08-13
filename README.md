@@ -30,7 +30,7 @@ Helped design and develop a prototype meeting rooms booking kiosk app to give We
 
 ## 🕹️ Check out some side projects I've worked on:
 
-### 🔗 [@BitcoinProgress](https://twitter.com/BitcoinProgress)
+### 🔗 [@BitcoinProgress](https://y.at/🤖⛓️🎰✨)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -42,7 +42,7 @@ You can also look around at my [twitter bots code](https://github.com/deevolutio
 
 Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. We used PTC Vuforia to recognize different products and then display a quick and easy to understand buy/sell signal to the user. Healthy for you, healthy for the planet!
 
-### 🔗 [heartfelt @ The Lab Panormam festival 2017](https://vimeo.com/234352576)
+### 🔗 [heartfelt @ The Lab Panorama festival 2017](https://vimeo.com/234352576)
 <iframe src="https://player.vimeo.com/video/234352576" width="100%" style="overflow:hidden;height:100%;width:100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
@@ -68,11 +68,11 @@ The Cliffs, Earthtreks
 
 #### ⛰️ Hiking
 
-Breakneck Ridge, Devils Peak, Grand Tetons, , lots of others!
+Breakneck Ridge (NY), Devils Peak (CO), Grand Tetons(WY), lots of others!
 
 #### 🚀 Sci-Fi
 
-Snow Crash, Neuromancer, Cryptonomicon
+[Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash), [Neuromancer](https://www.goodreads.com/book/show/6088007-neuromancer), [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon)
 
 > Fun Fact: my name was chosen from the character Gentry in William Gibson's Sprawl trillogy. 🔗 [amazon](https://read.amazon.com/kp/embed?asin=B000O76ON6&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ASLZCb72RDFA6&tag=mobilea096535-20)
 
@@ -84,5 +84,4 @@ Settlers of Catan, Settlers of America, Settlers of Europe, Dominion, Arkham Hor
 
 | ₿ Crypto | send me a coffee! ☕ |
 |:---|:---|
-|Bitcoin|bc1qw5t65htp9zl9sygm36ykzq9kkjg4xqndhngu3j |
-|Monero| 42CLABpWE8fAgt253a3kXbX9z2YAKwRcGSoMwPHrN3fCedJJTKRWN47D6ifVtR5kNDPHWsGcaikE7NwinGfMTb4TSUMjHjz |
+|Bitcoin| bc1qgtvaw87zcszqnq56kucvpcdfxklkvp3su042vn |
