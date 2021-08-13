@@ -38,12 +38,12 @@ Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bi
 You can also look around at my [twitter bots code](https://github.com/deevolutionism/bitcoin-halving-progress-bar).
 
 ### 🔗 [Ursa](https://devpost.com/software/shopgood)
-<iframe width="100%" style="overflow:hidden;height:100%;width:100%" height="315" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="overflow:hidden;height:100%;width:100%" height="360" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. We used PTC Vuforia to recognize different products and then display a quick and easy to understand buy/sell signal to the user. Healthy for you, healthy for the planet!
 
 ### 🔗 [heartfelt @ The Lab Panormam festival 2017](https://vimeo.com/234352576)
-<iframe src="https://player.vimeo.com/video/234352576" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/234352576" width="100%" style="overflow:hidden;height:100%;width:100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
