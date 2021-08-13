@@ -38,7 +38,7 @@ Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bi
 You can also look around at my [twitter bots code](https://github.com/deevolutionism/bitcoin-halving-progress-bar).
 
 ### 🔗 [Ursa](https://devpost.com/software/shopgood)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="overflow:hidden;height:100%;width:100%" height="315" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. We used PTC Vuforia to recognize different products and then display a quick and easy to understand buy/sell signal to the user. Healthy for you, healthy for the planet!
 
