@@ -37,6 +37,8 @@ Link to our [github](https://github.com/CitizenDAO/CitizenDaoHackathon) and [dis
 
 ### FWB Hackathon proposal
 
+![FWBxZORA](https://ipfs.io/ipfs/bafybeia4zxh5ej3dnlt4lxpyb7eeg2457eyagl6zg74n6ykx5bak4jpqly)
+
 As part of the 2021 [FWB](https://www.fwb.help/) hackathon I teamed up with a couple of my crypto friends to ideate on potential products that could utilize the amazing, intelligent network that is FWB. We came up with a product idea called Friends With Insights which basically would turn FWB into a collective intelligence service that can be called on by interested parties (companies, researchers, individuals, etc). FWB members could get early testing access to other products, provide feedback, and even collaborate. In return, companies that want to utilize FWB would have to buy and stake an amount of FWB tokens.
 
 Watch our pitch here: [Freinds With Insights](https://drive.google.com/file/d/1Obql7H_Wnz_BenGhbiu8xBVY4QvTk7Nh/view?usp=sharing)
