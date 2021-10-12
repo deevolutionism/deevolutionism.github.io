@@ -3,7 +3,47 @@
 ### I'm a Creative Technologist and Frontend Engineer currently based in Denver, CO.
 #### You can take a look at my [resume here](https://docs.google.com/document/d/1X_9-rshZzRTipMi56CX1Fnmlyb7rxyY8_KD992jRZnI/edit?usp=sharing)
 
-Currently exploring the DeFi, Bitcoin, Crypto rabbit hole 🕳🐇₿ and looking for ways to support and grow the space.
+Currently exploring the DeFi, Bitcoin, Crypto, web3 rabbit hole 🕳🐇₿ and looking for ways to support and grow the space. 
+
+### [2021 EthGlobal Hackathon](https://ethglobal.com/)
+
+Worked with a multidiciplinary team of entreprenuers, hackers and designers to prototype a DApp for coordinating, funding, and solving humanities biggest challenges in the broad categories of Health, Housing, Education, Climate, Finance, and Governance.
+
+Hackathon submission: [CitizenDAO](https://showcase.ethglobal.com/ethonline2021/citizen-dao)
+
+We're in the process of bootstrapping the DAO by selling Social Impact NFT bonds that will: 
+
+- Raise funds for the treasury
+- distribute CDAO tokens, used for community, governance and coordination
+- raise awareness
+- retrospectively fund active projects in the supported categories
+- proactively fund new projects
+
+The basic structure we proposed looks a bit like this: 
+
+Projects can be proposed using the [discource](https://ideas.citizendao.com/)
+
+CDAO Bonds are issued during what we call seasons and sold to the community to raise funding / awareness for projects
+
+The CDAO tokens are then used to vote on which projects should be rewarded during the season using snapshot.
+
+Tokens are distributed to projects that won the vote. A new season begins with a new cohort of projects (or old projects can try to win votes again)
+
+The cycle continues.
+
+We plan to continue development during the upcoming [fall 2021 chainlink hackathon](https://chain.link/hackathon)
+
+Link to our [github](https://github.com/CitizenDAO/CitizenDaoHackathon) and [discord community](https://discord.gg/t2Va2Hce)
+
+### FWB Hackathon proposal
+
+As part of the 2021 [FWB](https://www.fwb.help/) hackathon I teamed up with a couple of my crypto friends to ideate on potential products that could utilize the amazing, intelligent network that is FWB. We came up with a product idea called Friends With Insights which basically would turn FWB into a collective intelligence service that can be called on by interested parties (companies, researchers, individuals, etc). FWB members could get early testing access to other products, provide feedback, and even collaborate. In return, companies that want to utilize FWB would have to buy and stake an amount of FWB tokens.
+
+Watch our pitch here: [Freinds With Insights](https://drive.google.com/file/d/1Obql7H_Wnz_BenGhbiu8xBVY4QvTk7Nh/view?usp=sharing)
+
+## ASCAP
+
+Worked on improving site reliability, accessibility, bug fixes, and implementing new features. Also helped ASCAP explore options for modernizing their frontend code base from backbone to Vue. Worked on prototype application that required reverse engineering their existing backbone code to Vue and developing a custom reusable component library based on their design system.
 
 ## 🖥️ Microsites created with Vue at Edelman Digital
 
@@ -36,6 +76,8 @@ Helped design and develop a prototype meeting rooms booking kiosk app to give We
 
 Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply). If you are interesting in learning more about what the halvening is, you can read my [quick blog post](https://dev.to/) that gives a concise overview of the 3 underlying mechanism working together to control the supply of new Bitcoin. For a longer, and more technical, deep dive, I recommend reading [chapter 10: mining and consensus](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc) in Andreas Antonopoulos' Mastering Bitcoin book.
 You can also look around at my [twitter bots code](https://github.com/deevolutionism/bitcoin-halving-progress-bar).
+
+### Upcoming Zola NFT project
 
 ### 🔗 [Ursa](https://devpost.com/software/shopgood)
 <iframe width="100%" style="overflow:hidden;height:100%;width:100%" height="360" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
