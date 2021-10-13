@@ -74,7 +74,7 @@ Helped design and develop a prototype meeting rooms booking kiosk app to give We
 
 ## 🕹️ Check out some side projects I've worked on:
 
-## 🔗 [@BitcoinProgress](https://y.at/🤖⛓️🎰✨)
+## [@BitcoinProgress](https://y.at/🤖⛓️🎰✨)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -85,21 +85,21 @@ You can also look around at my [twitter bots code](https://github.com/deevolutio
 
 ✨ Details coming soon ✨ . . . 
 
-## 🔗 [Ursa](https://devpost.com/software/shopgood)
+## [Ursa](https://devpost.com/software/shopgood)
 <iframe width="100%" style="height: 720px" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. We used PTC Vuforia to recognize different products and then display a quick and easy to understand buy/sell signal to the user. Healthy for you, healthy for the planet!
 
-## 🔗 [heartfelt @ The Lab Panorama festival 2017](https://vimeo.com/234352576)
+## [heartfelt @ The Lab Panorama festival 2017](https://vimeo.com/234352576)
 <iframe src="https://player.vimeo.com/video/234352576" width="100%" style="height: 720px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
-## 🔗 [zolamusicofficial](http://zolamusicofficial.com)
+## [zolamusicofficial](http://zolamusicofficial.com)
 Created a webflow music website for my friend [ZOLA](https://soundcloud.com/zolamusicofficial). Still a work in progress at the moment!
 ![zola music official](assets/zola-music-official.JPG)
 
-## 🔗 [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
+## [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
 ---
 
