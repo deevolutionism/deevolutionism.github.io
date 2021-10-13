@@ -7,6 +7,8 @@ Currently exploring the DeFi, Bitcoin, Crypto, web3 rabbit hole 🕳🐇₿ and 
 
 ### [2021 EthGlobal Hackathon](https://ethglobal.com/)
 
+![CDAO](/cdao.png)
+
 Worked with a multidiciplinary team of entreprenuers, hackers and designers to prototype a DApp for coordinating, funding, and solving humanities biggest challenges in the broad categories of Health, Housing, Education, Climate, Finance, and Governance.
 
 Hackathon submission: [CitizenDAO](https://showcase.ethglobal.com/ethonline2021/citizen-dao)
