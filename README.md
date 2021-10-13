@@ -86,12 +86,12 @@ You can also look around at my [twitter bots code](https://github.com/deevolutio
 ✨ Details coming soon ✨ . . . 
 
 ### 🔗 [Ursa](https://devpost.com/software/shopgood)
-<iframe width="100%" style="overflow:hidden;width:100%" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" style="height: 720px" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. We used PTC Vuforia to recognize different products and then display a quick and easy to understand buy/sell signal to the user. Healthy for you, healthy for the planet!
 
 ### 🔗 [heartfelt @ The Lab Panorama festival 2017](https://vimeo.com/234352576)
-<iframe src="https://player.vimeo.com/video/234352576" width="100%" style="max-width: 740px;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/234352576" width="100%" style="height: 720px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
