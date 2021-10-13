@@ -5,7 +5,7 @@
 
 Currently exploring the DeFi, Bitcoin, Crypto, web3 rabbit hole 🕳🐇₿ and looking for ways to support and grow the space. 
 
-### [2021 EthGlobal Hackathon](https://ethglobal.com/)
+## [EthGlobal Hackathon 2021](https://ethglobal.com/)
 
 ![CDAO](/cdao.png)
 
@@ -37,7 +37,7 @@ We plan to continue development during the upcoming [fall 2021 chainlink hackath
 
 Link to our [github](https://github.com/CitizenDAO/CitizenDaoHackathon) and [discord community](https://discord.gg/t2Va2Hce)
 
-### FWB Hackathon proposal
+## [FWB X ZORA Hackathon 2021](https://www.fwb.help/)
 
 <video width="100%" src="https://ipfs.io/ipfs/bafybeia4zxh5ej3dnlt4lxpyb7eeg2457eyagl6zg74n6ykx5bak4jpqly"></video>
 
@@ -45,7 +45,7 @@ As part of the 2021 [FWB](https://www.fwb.help/) hackathon I teamed up with a co
 
 Watch our pitch here: [Freinds With Insights](https://drive.google.com/file/d/1Obql7H_Wnz_BenGhbiu8xBVY4QvTk7Nh/view?usp=sharing)
 
-## ASCAP
+## [ASCAP](https://www.ascap.com/)
 
 Worked on improving site reliability, accessibility, bug fixes, and implementing new features. Also helped ASCAP explore options for modernizing their frontend code base from backbone to Vue. Worked on prototype application that required reverse engineering their existing backbone code to Vue and developing a custom reusable component library based on their design system.
 
@@ -59,7 +59,7 @@ Worked on improving site reliability, accessibility, bug fixes, and implementing
 
 I have also worked on a handful of React apps for startups big and small
 
-### EINO
+### [EINO](https://eino.ai/)
 
 Developed their very first prototype data visualization dashboard for exploring cell tower usage and other related meta data accross several major cities, including NY and SF. The app was built with React, Redux, Sagas, Apex Charts, and Semantic UI. Also setup CI to an S3 bucket using bitbucket pipelines.
 
