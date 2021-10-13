@@ -5,13 +5,13 @@
 
 Currently exploring the DeFi, Bitcoin, Crypto, web3 rabbit hole 🕳🐇₿ and looking for ways to support and grow the space. 
 
-## [EthGlobal Hackathon 2021](https://ethglobal.com/)
+## [EthGlobal Hackathon 2021](https://showcase.ethglobal.com/ethonline2021/citizen-dao)
 
 ![CDAO](/cdao.png)
 
-Worked with a multidiciplinary team of entreprenuers, hackers and designers to prototype a DApp for coordinating, funding, and solving humanities biggest challenges in the broad categories of Health, Housing, Education, Climate, Finance, and Governance.
+Worked with a multidiciplinary team of entreprenuers, hackers and designers to prototype a DApp for coordinating, funding, and solving humanities biggest challenges in the broad categories of Health, Housing, Education, Climate, Finance, and Governance during the [EthGlobal 2021 Hackathon](https://online.ethglobal.com/).
 
-Hackathon submission: [CitizenDAO](https://showcase.ethglobal.com/ethonline2021/citizen-dao)
+[CitizenDAO Hackathon Submission](https://showcase.ethglobal.com/ethonline2021/citizen-dao)
 
 We're in the process of bootstrapping the DAO by selling Social Impact NFT bonds that will: 
 
@@ -37,7 +37,7 @@ We plan to continue development during the upcoming [fall 2021 chainlink hackath
 
 Link to our [github](https://github.com/CitizenDAO/CitizenDaoHackathon) and [discord community](https://discord.gg/t2Va2Hce)
 
-## [FWB X ZORA Hackathon 2021](https://www.fwb.help/)
+## [FWB X ZORA Hackathon 2021](https://drive.google.com/file/d/1Obql7H_Wnz_BenGhbiu8xBVY4QvTk7Nh/view?usp=sharing)
 
 <video width="100%" src="https://ipfs.io/ipfs/bafybeia4zxh5ej3dnlt4lxpyb7eeg2457eyagl6zg74n6ykx5bak4jpqly"></video>
 
