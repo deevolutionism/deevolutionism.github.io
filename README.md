@@ -37,7 +37,7 @@ Link to our [github](https://github.com/CitizenDAO/CitizenDaoHackathon) and [dis
 
 ### FWB Hackathon proposal
 
-![FWBxZORA](https://ipfs.io/ipfs/bafybeia4zxh5ej3dnlt4lxpyb7eeg2457eyagl6zg74n6ykx5bak4jpqly)
+<video width="100%" src="https://ipfs.io/ipfs/bafybeia4zxh5ej3dnlt4lxpyb7eeg2457eyagl6zg74n6ykx5bak4jpqly"></video>
 
 As part of the 2021 [FWB](https://www.fwb.help/) hackathon I teamed up with a couple of my crypto friends to ideate on potential products that could utilize the amazing, intelligent network that is FWB. We came up with a product idea called Friends With Insights which basically would turn FWB into a collective intelligence service that can be called on by interested parties (companies, researchers, individuals, etc). FWB members could get early testing access to other products, provide feedback, and even collaborate. In return, companies that want to utilize FWB would have to buy and stake an amount of FWB tokens.
 
@@ -79,7 +79,9 @@ Helped design and develop a prototype meeting rooms booking kiosk app to give We
 Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply). If you are interesting in learning more about what the halvening is, you can read my [quick blog post](https://dev.to/) that gives a concise overview of the 3 underlying mechanism working together to control the supply of new Bitcoin. For a longer, and more technical, deep dive, I recommend reading [chapter 10: mining and consensus](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc) in Andreas Antonopoulos' Mastering Bitcoin book.
 You can also look around at my [twitter bots code](https://github.com/deevolutionism/bitcoin-halving-progress-bar).
 
-### Upcoming Zola NFT project
+### Zola NFT
+
+✨ Details coming soon ✨ . . . 
 
 ### 🔗 [Ursa](https://devpost.com/software/shopgood)
 <iframe width="100%" style="overflow:hidden;width:100%" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
