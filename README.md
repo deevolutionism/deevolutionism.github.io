@@ -96,8 +96,11 @@ Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
 ## [zolamusicofficial](http://zolamusicofficial.com)
-Created a webflow music website for my friend [ZOLA](https://soundcloud.com/zolamusicofficial). Still a work in progress at the moment!
-![zola music official](assets/zola-music-official.JPG)
+Created a webflow website to showcase my musician friend [ZOLA](https://soundcloud.com/zolamusicofficial).
+
+Also created this cool interactive logo for him using the graphical programming platform [Cables](https://cables.gl/home):
+
+<iframe style="width:640px;height:480px;border:0px;" src="https://sandbox.cables.gl/viewer/5dbf6df4b5e2fb0dca8dac07"></iframe>
 
 ## [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
