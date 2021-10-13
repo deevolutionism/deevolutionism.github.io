@@ -100,7 +100,7 @@ Created a webflow website to showcase my musician friend [ZOLA](https://soundclo
 
 Also created this cool interactive logo for him using the graphical programming platform [Cables](https://cables.gl/home):
 
-<iframe style="width:640px;height:480px;border:0px;" src="https://sandbox.cables.gl/viewer/5dbf6df4b5e2fb0dca8dac07"></iframe>
+<iframe style="width:100%;height:640px;border:0px;" src="https://sandbox.cables.gl/viewer/5dbf6df4b5e2fb0dca8dac07"></iframe>
 
 ## [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
