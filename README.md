@@ -59,47 +59,47 @@ Worked on improving site reliability, accessibility, bug fixes, and implementing
 
 I have also worked on a handful of React apps for startups big and small
 
-### [EINO](https://eino.ai/)
+## [EINO](https://eino.ai/)
 
 Developed their very first prototype data visualization dashboard for exploring cell tower usage and other related meta data accross several major cities, including NY and SF. The app was built with React, Redux, Sagas, Apex Charts, and Semantic UI. Also setup CI to an S3 bucket using bitbucket pipelines.
 
-### Grapple Media
+## Grapple Media
 
 Developed the second iteration of their UI which included important core features such as search, filtering, and a multi-panel layout similar to Tweet Deck that allowed users to easily keep track of important streams of information.
 
-### WeWork
+## WeWork
 
 Helped design and develop a prototype meeting rooms booking kiosk app to give WeWork members an alternative option for quickly and conveniently booking the nearest available room. Built with React, interfacing with the WeWork meeting room API service.
 
 
 ## 🕹️ Check out some side projects I've worked on:
 
-### 🔗 [@BitcoinProgress](https://y.at/🤖⛓️🎰✨)
+## 🔗 [@BitcoinProgress](https://y.at/🤖⛓️🎰✨)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reward Era: 3<br>Block Reward: 12.5<br>Blocks Left: 65068<br>██████████░░░░░ 69%</p>&mdash; BITCOIN HALVENING (@BitcoinProgress) <a href="https://twitter.com/BitcoinProgress/status/1100869517465579520?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Bitcoin Progress twitter bot. Follow this to track progress towards the next [Bitcoin halving event](https://en.bitcoin.it/wiki/Controlled_supply). If you are interesting in learning more about what the halvening is, you can read my [quick blog post](https://dev.to/) that gives a concise overview of the 3 underlying mechanism working together to control the supply of new Bitcoin. For a longer, and more technical, deep dive, I recommend reading [chapter 10: mining and consensus](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc) in Andreas Antonopoulos' Mastering Bitcoin book.
 You can also look around at my [twitter bots code](https://github.com/deevolutionism/bitcoin-halving-progress-bar).
 
-### Zola NFT
+## Zola NFT
 
 ✨ Details coming soon ✨ . . . 
 
-### 🔗 [Ursa](https://devpost.com/software/shopgood)
+## 🔗 [Ursa](https://devpost.com/software/shopgood)
 <iframe width="100%" style="height: 720px" src="https://www.youtube.com/embed/-vN5sSfZQ04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ursa was a 🔗 [MIT Reality Virtually](https://realityvirtuallyhack.com/) 2019 Hackathon project developed with an amazing team. We created a prototype AR app with the goal of helping shoppers make sustainable purchases. We used PTC Vuforia to recognize different products and then display a quick and easy to understand buy/sell signal to the user. Healthy for you, healthy for the planet!
 
-### 🔗 [heartfelt @ The Lab Panorama festival 2017](https://vimeo.com/234352576)
+## 🔗 [heartfelt @ The Lab Panorama festival 2017](https://vimeo.com/234352576)
 <iframe src="https://player.vimeo.com/video/234352576" width="100%" style="height: 720px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/234352576">Heartfelt at Panorama</a> from <a href="https://vimeo.com/user551295">Ekene Ijeoma</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Heartfelt was an interactive installation project showcased at The Lab during the Panorama 2017 music festival on Randnals island NYC. I helped with construction, assembly, and testing of the installation.
 
-### 🔗 [zolamusicofficial](http://zolamusicofficial.com)
+## 🔗 [zolamusicofficial](http://zolamusicofficial.com)
 Created a webflow music website for my friend [ZOLA](https://soundcloud.com/zolamusicofficial). Still a work in progress at the moment!
 ![zola music official](assets/zola-music-official.JPG)
 
-### 🔗 [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
+## 🔗 [Take a look at various university projects](http://portfolio.newschool.edu/gentrydemchak/)
 ![robot](http://portfolio.newschool.edu/gentrydemchak/files/2015/05/Screen-Shot-2015-05-06-at-2.16.19-AM-2epttwk.png)
 ---
 
