@@ -25,3 +25,14 @@ img {
   max-width: 100%;
   display: block;
 }
+
+small {
+
+}
+
+small i {
+  background: #f1f1f1;
+  display: inline-block;
+  margin: 0.1em;
+  padding: 0.1em;
+}
