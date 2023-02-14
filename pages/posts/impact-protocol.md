@@ -1,7 +1,7 @@
 ---
 title: 'CitizenDAO Impact Protocol'
 date: '2020-01-01'
-description: 'NFT social impact marketplace concept for funding project development'
+description: 'NFT social impact marketplace concept for retroactively funding project development'
 tags: 'software engineering'
 author: 'Gentry Demchak'
 image: '/images/citizen-dao-citizenship.gif'

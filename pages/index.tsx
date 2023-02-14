@@ -7,6 +7,14 @@ import { getSortedPostsData } from '../lib/posts';
 import Link from "next/link";
 import Date from "../components/date"
 
+// interface PostData {
+//   id: string; date: string; title: string; image: string; tags:string[];
+// }
+
+// interface AllPostData {
+//   allPostsData: PostData[]
+// }
+
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
@@ -37,8 +45,7 @@ export default function Home({allPostsData}) {
               <Link href={`/posts/${id}`}>{title}</Link>
               <br />
               <small className={utilStyles.lightText}>
-                {/* <Date dateString={date} /> */}
-                {date}
+                <Date dateString={date} />
               </small>
               <br />
               <Tags tags={tags} />
