@@ -50,6 +50,8 @@ A bot that publishes regular updates on progress toward the next bitcoin subsidy
 
 The iteration loop (develop => deploy => test) was a bit of an arduous process as it involves zipping the the project, deploying to AWS via the CLI, invoking the function to see if it would work, etc. Eventually, I started editing the Lamda function directly from the AWS Lambda IDE 🙊 to speed this iteration loop up. Alternatively, I could explore configuring a CI/CD system leveraging github actions.
 
+I don't like that it polls the blockchain.com API every 5 minutes. I'd like to find a way to subscribe to a websocket that notifies me when a new block is mined. I'm not sure if any bitcoin RPC APIs offer this functionality, but I'll look into it.
+
 #### Interesting bits of code / challenges
 
 Deriving subsidy:
