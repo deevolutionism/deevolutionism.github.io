@@ -2,12 +2,12 @@
 title: 'Bitcoin Progress'
 date: '2020-01-01'
 description: 'Twitter bot that provides regular updates on the Bitcoin protocol progress toward the next subsidy halving event'
-tags: 'Software Engineering, Python, AWS, Tweepy, Bots, Twitter'
+tags: 'Python, AWS Lambda, Tweepy, Bots, Twitter, Bitcoin'
 author: 'Gentry Demchak'
 image: '/images/bitcoin-progress.jpg'
 ---
 
-### A twitter bot that posts regular updates on the Bitcoin Protocol quadrennial halvening event.
+### A twitter bot that posts regular updates about the quadrennial block subsidy halvening event.
 
 I created this twitter bot to help educate folks about Bitcoins programatic supply cap of 21 million coins (or to be more precise 2,100,000,000,000,000 sats, the smallest unit.).
 
@@ -54,11 +54,11 @@ The iteration loop (develop => deploy => test) was a bit of an arduous process a
 
 Deriving subsidy:
 
-There are a couple ways to derive subsidy. One way is to look at the data from the current block and simply subtract the total output value from the total input value. The difference will give you the subsidy. This data can be found using the blockchair.com api: https://api.blockchair.com/bitcoin/dashboards/block/776555
+There are a couple ways to derive subsidy. One way is to look at the data from the current block and simply subtract the total output value from the total input value. The difference will give you the subsidy. This data can be found using the blockchair.com api by first retrieving the latest block, and then looking up  https://api.blockchair.com/bitcoin/dashboards/block/776555
 
 Alternatively, if we know a few constants and know the current block height, the we can derive the value ourself with a simple formula.
 
-The bitcoin protocol has defined few consens critical constants that we can use:
+The bitcoin protocol has defined few consensus critical constants that we can use:
 
 [COIN](https://github.com/bitcoin/bitcoin/blob/fb2f0934799a4e84b9d89fd58d594435358b4366/src/consensus/amount.h#L15) = 100000000
 
@@ -72,20 +72,22 @@ subsidy = (nSubsidy >> subsidy_era - 1) / COIN
 
 ```python
 def block_subsidy(self):
-        subsidy_era = self.subsidy_era()
-        # use a bitwise right shift to halve the subsidy based on the era
-        subsidy = ( self.INIT_MINING_SUBSIDY >> subsidy_era - 1 ) / self.COIN
-        return subsidy
+    subsidy_era = self.subsidy_era()
+    # use a bitwise right shift to halve the subsidy based on the era
+    subsidy = ( self.INIT_MINING_SUBSIDY >> subsidy_era - 1 ) / self.COIN
+    return subsidy
 ```
+
 A few constants we need:
+
 - COIN = 100,000,000 as defined in the [Bitcoin consensus](https://github.com/bitcoin/bitcoin/blob/fb2f0934799a4e84b9d89fd58d594435358b4366/src/consensus/amount.h#L15) (each Bitcoin is 100MM sats).
 - INIT_MINING_SUBSIDY = 50 as defined in the Bitcoin code base
 - We also need the current subsidy_era which we get with this function:
+
 ```python
 def subsidy_era(self):
-        return math.ceil((self.CURRENT_BLOCK_HEIGHT / self.HALVING_INTERVAL))
+    return math.ceil((self.CURRENT_BLOCK_HEIGHT / self.HALVING_INTERVAL))
 ```
-Another constant:
-HALVING_INTERVAL = 210,000 also defined in 
+
 
 [^1]: Some argue the *subsidy* should be called a *reward*, however, as the subsidy eventually reaches 0 and the network is intended to utlimately be fully supported by transaction fees, it makes more sense to call it a subsidy.
