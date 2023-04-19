@@ -31,7 +31,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>👋 I'm a Front End Engineer.</p>
+        <p>👋 I&apos;m a Front End Engineer.</p>
         <p>
           🌐 Find me on the internet: <a href="https://github.com/deevolutionism">Github</a>
         </p>
